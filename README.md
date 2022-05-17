@@ -1,4 +1,4 @@
 ```
-docker build -t open-road .
-docker run -i --rm open-road
+docker build -t openroad .
+docker run -i --rm openroad
 ```
